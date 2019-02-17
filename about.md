@@ -9,7 +9,12 @@ layout: page
 <h2>Work Experience</h2>
 
 <ul class="skill-list">
-	<li><b>Product Manager</b>, &nbsp; <a href="https://imagine-orb.com">Orb Inc</a> (Nov '18 - Now)</li>
+	<li><b>Product Manager</b>, &nbsp; <a href="https://imagine-orb.com">Orb Inc</a> (Nov '17 - Now)
+		<ul>
+			<li>Lead end to end product and strategy efforts for Orb's enterprise product, Orb DLT </li>
+			<li>Created and maintained product roadmap and drove product requirements for clients and external vendors.Resposibilities consisted of the product offering, end-to-end usability and experience, integration with client and internal back-end systems</li>
+		</ul>
+	</li>
 	<li>Responsive (Mobile First)</li>
 	<li>CSS (Stylus, Sass, Less)</li>
 	<li>Css Frameworks (Bootstrap, Foundation)</li>
