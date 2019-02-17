@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>At my <i>core</i>, I am a product strategist who believes that a highly effective product definition requires insight into the intersection of <b>design</b>, <b>business</b>, <b>technology</b>, and <b>the user<b>. My strengths encompass defining product vision, orchestrating the product's roadmap, crafting compelling stories, and delivering seamless, human-centered experiences. I enjoy interfacing with clients, internal executives and my engineering team to bring the product vision to life. I also thrive on maneuvering through project and political challenges, and most importantly, envisioning experiences that delight users. I fundamentally believe that a thoughtful product manager can improve people's lives, transform companies and change the culture. </p>
+<p>At my <i>core</i>, I am a product strategist who believes that a highly effective product definition requires insight into the intersection of <b>design</b>, <b>business</b>, <b>technology</b>, and <b>the user</b>. My strengths encompass defining product vision, orchestrating the product's roadmap, crafting compelling stories, and delivering seamless, human-centered experiences. I enjoy interfacing with clients, internal executives and my engineering team to bring the product vision to life. I also thrive on maneuvering through project and political challenges, and most importantly, envisioning experiences that delight users. I fundamentally believe that a thoughtful product manager can improve people's lives, transform companies and change the culture. </p>
 
 <h2>Work Experience</h2>
 
