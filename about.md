@@ -9,7 +9,7 @@ layout: page
 <h2>Work Experience</h2>
 
 <ul class="skill-list">
-	<li><h3>HTML - Jade - Haml - Erb</h3></li>
+	<li><h4>HTML - Jade - Haml - Erb</h4></li>
 	<li>Responsive (Mobile First)</li>
 	<li>CSS (Stylus, Sass, Less)</li>
 	<li>Css Frameworks (Bootstrap, Foundation)</li>
