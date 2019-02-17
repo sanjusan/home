@@ -37,10 +37,8 @@ layout: page
 		</ul>
 </ul>
 
-<h2>Projects</h2>
+<h2>Education</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="http://www.coep.org.in/">College of Engineering, Pune &ebsp; Electrical Engineering, 8.4/10</a></li>
 </ul>
