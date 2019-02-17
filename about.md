@@ -40,5 +40,5 @@ layout: page
 <h2>Education</h2>
 
 <ul>
-	<li><a href="http://www.coep.org.in/">College of Engineering, Pune &ebsp; Electrical Engineering, 8.4/10</a></li>
+	<li><a href="http://www.coep.org.in/"> College of Engineering, Pune &ebsp; Electrical Engineering, 8.4/10 </a></li>
 </ul>
