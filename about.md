@@ -14,8 +14,7 @@ layout: page
 		<ul>
 			<li>Lead end to end product and strategy efforts for Orb's enterprise product, Orb DLT </li>
 			<li>Created and maintained product roadmap and drove product requirements for clients and external vendors.Resposibilities consisted of the product offering, end-to-end usability and experience, integration with client and internal back-end systems</li>
-		</ul>
-	</li>
+		</ul><br>
 	<li>TDD e Continuous Integration</li>
 </ul>
 
