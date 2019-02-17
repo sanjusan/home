@@ -94,7 +94,13 @@
             <svg class="icon icon-vimeo"><use xlink:href="#icon-vimeo"></use></svg>
         </a>
     {% endif %}
-
+    
+    {% if site.behance %}
+        <a class="link" data-title="behance.net/{{ site.behance }}" href="https://behance.com/{{ site.behance }}" target="_blank">
+            <svg class="icon icon-behance"><use xlink:href="#icon-behance"></use></svg>
+        </a>
+    {% endif %}
+    
     {% if site.lanyrd %}
         <a class="link" data-title="lanyrd.com/{{ site.lanyrd }}" href="https://lanyrd.com/{{ site.lanyrd }}" target="_blank">
             <svg class="icon icon-microphone"><use xlink:href="#icon-microphone"></use></svg>
