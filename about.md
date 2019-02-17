@@ -13,13 +13,15 @@ layout: page
 	</li><br>
 		<ul>
 			<li>Lead end to end product development and strategy efforts for Orb's enterprise product, Orb DLT </li>
-			<li>Created and maintained product roadmap and drove product requirements for clients and external vendors.<br>Resposibilities consisted of the product offering, end-to-end usability and experience, integration with client and internal back-end systems</li>
+			<li>Created and maintained product roadmap and drove product requirements for clients and external vendors.<br>Resposibilities consisted of the product offering, end-to-end user experience and usability testing, integration with client and internal back-end systems.</li>
 			<li>Responsible for all product initiatives at Orb. Currently own following functional areas at Orb:
 				<ul>
 					<li>Product Management</li>
 					<li>Design</li>
 					<li>Program Management</li>
 				</ul>
+			<li>Work with senior leadership to chart a vision for and develop a commercialized product for Orb DLT.</li>
+			<li>Work with world-class engineers to bring highly scalable features to market.</li>
 		</ul><br>
 	<li>TDD e Continuous Integration</li>
 </ul>
