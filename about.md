@@ -20,6 +20,7 @@ layout: page
 					<li>Design</li>
 					<li>Program Management</li>
 				</ul>
+			</li>
 			<li>Work with senior leadership to chart a vision for and develop a commercialized product for Orb DLT.</li>
 			<li>Work with world-class engineers to bring highly scalable features to market.</li>
 		</ul><br>
