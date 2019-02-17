@@ -40,5 +40,5 @@ layout: page
 <h2>Education</h2>
 
 <ul>
-	<li><b>College of Engineering, Pune <b> &ebsp; Electrical Engineering, 8.4/10 </a></li>
+	<li><b>College of Engineering, Pune </b> &ebsp; Electrical Engineering, 8.4/10 </li>
 </ul>
