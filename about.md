@@ -10,7 +10,7 @@ layout: page
 
 <ul class="skill-list">
 	<li><b>Product Manager</b>, &nbsp; <a href="https://imagine-orb.com">Orb Inc</a> (Nov '17 - Now) <br> Orb is a software foundation focused on providing end to end business solutions to solve the issues of governments and financial institutions current economic system. 
-	</li>
+	</li><br>
 		<ul>
 			<li>Lead end to end product and strategy efforts for Orb's enterprise product, Orb DLT </li>
 			<li>Created and maintained product roadmap and drove product requirements for clients and external vendors.Resposibilities consisted of the product offering, end-to-end usability and experience, integration with client and internal back-end systems</li>
