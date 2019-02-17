@@ -9,7 +9,7 @@ layout: page
 <h2>Work Experience</h2>
 
 <ul class="skill-list">
-	<li><b>Product Manager</b>,<a href="https://imagine-orb.com">Orb Inc</a></li>
+	<li><b>Product Manager</b> &nbsp,<a href="https://imagine-orb.com">Orb Inc</a> (Nov '18 - Now)</li>
 	<li>Responsive (Mobile First)</li>
 	<li>CSS (Stylus, Sass, Less)</li>
 	<li>Css Frameworks (Bootstrap, Foundation)</li>
