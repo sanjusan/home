@@ -9,24 +9,13 @@ layout: page
 <h2>Work Experience</h2>
 
 <ul class="skill-list">
-	<li><b>Product Manager</b>, &nbsp; <a href="https://imagine-orb.com">Orb Inc</a> (Nov '17 - Now)
+	<li><b>Product Manager</b>, &nbsp; <a href="https://imagine-orb.com">Orb Inc</a> (Nov '17 - Now) <br> Orb is a software foundation focused on providing end to end business solutions to solve the issues of governments and financial institutions current economic system. 
+	</li>
 		<ul>
 			<li>Lead end to end product and strategy efforts for Orb's enterprise product, Orb DLT </li>
 			<li>Created and maintained product roadmap and drove product requirements for clients and external vendors.Resposibilities consisted of the product offering, end-to-end usability and experience, integration with client and internal back-end systems</li>
 		</ul>
 	</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
 	<li>TDD e Continuous Integration</li>
 </ul>
 
