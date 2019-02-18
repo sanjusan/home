@@ -35,6 +35,9 @@ layout: page
 			<li> Web design and UX for the organization's website.
 			</li>
 		</ul>
+	<li><b> Engineering Intern</b>, &nbsp; <a href="https://www.petrofac.com/en-gb/home/">Petrofac</a> (May '15 - July '15) <br> Petrofac is a leading international service provider to the oil and gas production and processing industry. </li><br>
+	<li><b> Industrial Design Intern</b>, &nbsp; <a href="www.honeywell.com">Honeywell</a> (May '13 - July '13) <br> Honeywell produces a variety of commercial and consumer products, engineering services and aerospace systems for a wide variety of customers, from private consumers to major corporations and governments. </li><br>
+</ul>
 </ul>
 
 <h2>Education</h2>
