@@ -9,7 +9,7 @@ layout: page
 <h2>Work Experience</h2>
 
 <ul class="skill-list">
-	<li><b>Product Manager</b>, &nbsp; <a href="https://imagine-orb.com">Orb Inc</a> (Nov '17 - Now) <br> Orb is a software foundation focused on providing end to end business solutions to solve the issues of governments and financial institutions current economic system. 
+	<li><b>Product Manager</b>, &nbsp; <a href="https://imagine-orb.com">Orb Inc</a> (Nov '17 - Now) <br> Orb is a software foundation that focuses on delivering fast, frictionless commerce with configurable coin economies on a distributed ledger platform that is secure, scalable, and easy-to-integrate into enterprise networks.
 	</li><br>
 		<ul>
 			<li>Lead end to end product development and strategy efforts for Orb's enterprise product, Orb DLT </li>
