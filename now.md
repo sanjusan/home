@@ -1,1 +1,4 @@
-
+---
+title: Now
+layout: page
+---
