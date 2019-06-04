@@ -4,7 +4,7 @@ layout: page
 ---
 This is a new page on my site, inspired by [Derek Sivers](https://sivers.org/now), who came up with the idea of a “Now Page”. Like most everything else I do, this is an experiment.
 
-What I'm up to right **now**
+What I'm up to right **NOW**
 
 * Reading *Tools of Titans* by Tim Ferris.
 * Learning how to play the *ukelele*
