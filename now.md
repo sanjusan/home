@@ -8,8 +8,9 @@ This is a new page on my site, inspired by [Derek Sivers](https://sivers.org/now
 ## What I'm up to right **NOW**:
 
 * Reading *Tools of Titans* by Tim Ferris.
+* Reading *The Tao Of Seneca*
 * Learning how to play the *ukelele*.
 * Trying to host more people via couchsurfing. Giving back is so important.
 * Working on a side project to help women feel better, *everyday*.
 
-Last Updated: ***June 4, 2019***
+Last Updated: ***June 10, 2019***
