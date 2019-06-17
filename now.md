@@ -7,10 +7,10 @@ This is a new page on my site, inspired by [Derek Sivers](https://sivers.org/now
 
 ## What I'm up to right **NOW**:
 
-* Reading *Tools of Titans* by Tim Ferris.
+* Reading *Genghis Khan and the Making of the Modern World* by Jack Weatherford.
 * Reading *The Tao Of Seneca*
 * Learning how to play the *ukelele*.
 * Trying to host more people via couchsurfing. Giving back is so important.
 * Working on a side project to help women feel better, *everyday*.
 
-Last Updated: ***June 10, 2019***
+Last Updated: ***June 17, 2019***
