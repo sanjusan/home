@@ -13,17 +13,18 @@ layout: page
 	</li><br>
 		<ul>
 			<li>Lead end to end product development and strategy efforts for Orb's enterprise product, Orb DLT </li>
-			<li>Created and maintained product roadmap and drove product requirements for clients and external vendors.<br>Resposibilities consisted of the product offering, end-to-end user experience and usability testing, integration with client and internal back-end systems.</li>
+			<li>Created and maintained product roadmap and drove product requirements for clients and external vendors.<br>Resposibilities consisted of owning the whole delivery lifecycle from requirement gathering, concept building, the product offering, end-to-end user experience and usability testing, integration with client and internal back-end systems, deployment to production and post launch maintenance.</li>
 			<li>Planned and led two successful launches of our services around local currency projects.</li>
 			<li>Responsible for all product initiatives at Orb. Currently own following functional areas at Orb:
 				<ul>
 					<li>Product Management</li>
-					<li>Design</li>
+					<li>Product Design</li>
 					<li>Program Management</li>
 				</ul>
 			</li>
 			<li>Work with senior leadership to chart a vision for and develop a commercialized product for Orb DLT.</li>
 			<li>Work with world-class engineers to bring highly scalable features to market.</li>
+			<li>Build and foster a creative and stimulating work environment to ensure all members of the team feel at their productive best.</li>
 		</ul><br>
 	<li><b>Visual Designer and Recruitment Consultant</b>, &nbsp; <a href="https://www.webstaff.jp/">Webstaff Co. Ltd.</a> (Aug '16 - Sept '17) <br> WebStaff is Japan's first ever web specialized human resource service company providing multiple HR services to the IT industry including staffing, placement, consulting and outsourcing web design. </li><br>
 		<ul>
