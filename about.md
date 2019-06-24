@@ -28,13 +28,11 @@ layout: page
 		</ul><br>
 	<li><b>Visual Designer and Recruitment Consultant</b>, &nbsp; <a href="https://www.webstaff.jp/">Webstaff Co. Ltd.</a> (Aug '16 - Sept '17) <br> WebStaff is Japan's first ever web specialized human resource service company providing multiple HR services to the IT industry including staffing, placement, consulting and outsourcing web design. </li><br>
 		<ul>
-			<li>Specialized in hiring professionals for IT giants in Japan including system architects, development engineers and designers.</li>
-			<li>Generated a profit of 7500万円 in one year.
-			</li>
 			<li> Conceptualize and design the organization's marketing and communications materials including nengajo, shochu mimai and e-brochures.
 			</li>
 			<li> Web design and UX for the organization's website.
 			</li>
+			<li>Specialized in hiring professionals for IT giants in Japan including system architects, development engineers and designers. Generated a profit of 7500万円 in one year.</li>
 		</ul><br>
 	<li><b> Engineering Intern</b>, &nbsp; <a href="https://www.petrofac.com/en-gb/home/">Petrofac</a> (May '15 - July '15) <br> Petrofac is a leading international service provider to the oil and gas production and processing industry. </li><br>
 	<li><b> Industrial Design Intern</b>, &nbsp; <a href="www.honeywell.com">Honeywell</a> (May '13 - July '13) <br> Honeywell produces a variety of commercial and consumer products, engineering services and aerospace systems for a wide variety of customers, from private consumers to major corporations and governments. </li><br>
