@@ -8,10 +8,8 @@ This is a new page on my site, inspired by [Derek Sivers](https://sivers.org/now
 ## What I'm up to right **NOW**:
 
 * Reading *Genghis Khan and the Making of the Modern World* by Jack Weatherford.
-* Reading *The Making of a Manager* by Julia Zhuo.
-* Reading *The Tao Of Seneca*
+* Reading *The Tao Of Seneca*.
 * Learning how to play the *ukelele*.
-* Trying to host more people via couchsurfing. Giving back is so important.
-* Working on a side project to help women feel better, *everyday*.
+* Working on a side project to make gourmet food more accessible.
 
-Last Updated: ***June 17, 2019***
+Last Updated: ***June 26, 2019***
