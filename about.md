@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>At my <i>core</i>, I am a product strategist who believes that a highly effective product definition requires insight into the intersection of <b>design</b>, <b>business</b>, <b>technology</b>, and <b>the user</b>. My strengths encompass <b>defining product vision</b>, <b>orchestrating the product's roadmap</b>, <b>crafting compelling stories</b>, and <b>delivering seamless</b>, <b>human-centered experiences</b>. I enjoy interfacing with clients, internal executives and my engineering team to bring the product vision to life. I also thrive on maneuvering through project and political challenges, and most importantly, envisioning experiences that delight users. I think very long-term and amfuture-focused. Firm practitioner of the <a href="https://sivers.org/hellyeah">hell yeah or no</a> philosophy. </p>
+<p>At my <i>core</i>, I am a product strategist who believes that a highly effective product definition requires insight into the intersection of <b>design</b>, <b>business</b>, <b>technology</b>, and <b>the user</b>. My strengths encompass <b>defining product vision</b>, <b>orchestrating the product's roadmap</b>, <b>crafting compelling stories</b>, and <b>delivering seamless</b>, <b>human-centered experiences</b>. I enjoy interfacing with clients, internal executives and my engineering team to bring the product vision to life. I also thrive on maneuvering through project and political challenges, and most importantly, envisioning experiences that delight users. I think very long-term and am future-focused. Firm practitioner of the <a href="https://sivers.org/hellyeah">hell yeah or no</a> philosophy. </p>
 
 <h2>Work Experience</h2>
 
