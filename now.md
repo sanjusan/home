@@ -8,6 +8,7 @@ This is a new page on my site, inspired by [Derek Sivers](https://sivers.org/now
 ## What I'm up to right **NOW**:
 
 * Reading [Genghis Khan and the Making of the Modern World](https://www.goodreads.com/book/show/40718726-genghis-khan-and-the-making-of-the-modern-world?from_search=true) by Jack Weatherford.
+* Reading [Zero to One](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296) by Peter Thiel.
 * Learning how to play the *ukelele*.
 
 Last Updated: ***August 25, 2019***
