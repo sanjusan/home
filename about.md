@@ -9,7 +9,9 @@ layout: page
 <h2>Work Experience</h2>
 
 <ul class="skill-list">
-	<li><b>Product Manager</b>, &nbsp; <a href="https://imagine-orb.com">Orb Inc</a> (Nov '17 - Now) <br> Orb is a software foundation that focuses on delivering fast, frictionless commerce with configurable coin economies on a distributed ledger platform that is secure, scalable, and easy-to-integrate into enterprise networks.
+	<li><b>Product Manager</b>, &nbsp; <a href="https://www.bitcoin.com">Bitcoin.com</a> (Sept '19 - Now) <br> Our products make both Bitcoin Cash and Bitcoin Core more accessible. You can buy, use, and store Bitcoin securely, monitor market prices and news, and even earn Bitcoin through mining. We also help businesses accept Bitcoin payments and support developers building on Bitcoin.
+	</li><br>
+	<li><b>Product Manager</b>, &nbsp; <a href="https://imagine-orb.com">Orb Inc</a> (Nov '17 - Sept '19) <br> Orb is a software foundation that focuses on delivering fast, frictionless commerce with configurable coin economies on a distributed ledger platform that is secure, scalable, and easy-to-integrate into enterprise networks.
 	</li><br>
 		<ul>
 			<li>Lead end to end product development and strategy efforts for Orb's enterprise product, Orb DLT </li>
