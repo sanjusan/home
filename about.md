@@ -15,8 +15,8 @@ layout: page
 			<li>Collaborating with Bitcoin.com Buy external partner, MoonPay, to achieve over 30% increase in transaction volume- Month over Month.</li>
 			<li>Reporting month-over-month increase of 26% in revenue for Bitcoin.com Local </li>
 			<li>Spearheaded Steam Integration to trade CS:GO Game items for BCH on Bitcoin.com Local </li>
-			<li> Make hard data-informed decisions (A/B testing and experimentation, user testing, data analysis, defining metrics)
-
+			<li> Make hard data-informed decisions (A/B testing and experimentation, user testing, data analysis, defining metrics)</li>
+	</ul>
 	</li><br>
 	<li><b>Product Manager</b>, &nbsp; <a href="https://imagine-orb.com">Orb Inc</a> (Nov '17 - Sept '19) <br> Orb is a software foundation that focuses on delivering fast, frictionless commerce with configurable coin economies on a distributed ledger platform that is secure, scalable, and easy-to-integrate into enterprise networks.
 	</li><br>
