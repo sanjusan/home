@@ -9,7 +9,14 @@ layout: page
 <h2>Work Experience</h2>
 
 <ul class="skill-list">
-	<li><b>Product Manager</b>, &nbsp; <a href="https://www.bitcoin.com">Bitcoin.com</a> (Sept '19 - Now) <br> Our products make both Bitcoin Cash and Bitcoin Core more accessible. You can buy, use, and store Bitcoin securely, monitor market prices and news, and even earn Bitcoin through mining. We also help businesses accept Bitcoin payments and support developers building on Bitcoin.
+	<li><b>Product Manager</b>, &nbsp; <a href="https://www.bitcoin.com">Bitcoin.com</a> (Sept '19 - Now) <br> Our products make Bitcoin Cash more accessible. 
+		<ul>
+			<li>Product lead for <a href="https://buy.bitcoin.com">Bitcoin.com Buy</a> and <a href="https://local.bitcoin.com">Bitcoin.com Local</a></li>
+			<li>Collaborating with Bitcoin.com Buy external partner, MoonPay, to achieve over 30% increase in transaction volume- Month over Month.</li>
+			<li>Reporting month-over-month increase of 26% in revenue for Bitcoin.com Local </li>
+			<li>Spearheaded Steam Integration to trade CS:GO Game items for BCH on Bitcoin.com Local </li>
+			<li> Make hard data-informed decisions (A/B testing and experimentation, user testing, data analysis, defining metrics)
+		</ul>
 	</li><br>
 	<li><b>Product Manager</b>, &nbsp; <a href="https://imagine-orb.com">Orb Inc</a> (Nov '17 - Sept '19) <br> Orb is a software foundation that focuses on delivering fast, frictionless commerce with configurable coin economies on a distributed ledger platform that is secure, scalable, and easy-to-integrate into enterprise networks.
 	</li><br>
@@ -28,17 +35,13 @@ layout: page
 			<li>Work with world-class engineers to bring highly scalable features to market.</li>
 			<li>Build and foster a creative and stimulating work environment to ensure all members of the team feel at their productive best.</li>
 		</ul><br>
-	<li><b>Visual Designer and Recruitment Consultant</b>, &nbsp; <a href="https://www.webstaff.jp/">Webstaff Co. Ltd.</a> (Aug '16 - Sept '17) <br> WebStaff is Japan's first ever web specialized human resource service company providing multiple HR services to the IT industry including staffing, placement, consulting and outsourcing web design. </li><br>
+	<li><b>Visual Designer</b>, &nbsp; <a href="https://www.webstaff.jp/">Webstaff Co. Ltd.</a> (Aug '16 - Sept '17) <br> WebStaff is Japan's first ever web specialized human resource service company providing multiple HR services to the IT industry including staffing, placement, consulting and outsourcing web design. </li><br>
 		<ul>
 			<li> Conceptualize and design the organization's marketing and communications materials including nengajo, shochu mimai and e-brochures.
 			</li>
 			<li> Web design and UX for the organization's website.
 			</li>
-			<li>Specialized in hiring professionals for IT giants in Japan including system architects, development engineers and designers. Generated a profit of 7500万円 in one year.</li>
 		</ul><br>
-	<li><b> Engineering Intern</b>, &nbsp; <a href="https://www.petrofac.com/en-gb/home/">Petrofac</a> (May '15 - July '15) <br> Petrofac is a leading international service provider to the oil and gas production and processing industry. </li><br>
-	<li><b> Industrial Design Intern</b>, &nbsp; <a href="www.honeywell.com">Honeywell</a> (May '13 - July '13) <br> Honeywell produces a variety of commercial and consumer products, engineering services and aerospace systems for a wide variety of customers, from private consumers to major corporations and governments. </li><br>
-</ul>
 
 <h2>Education</h2>
 
