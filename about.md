@@ -9,7 +9,7 @@ layout: page
 <h2>Work Experience</h2>
 
 <ul class="skill-list">
-	<li><b>Product Manager</b>, &nbsp; <a href="https://www.bitcoin.com">Bitcoin.com</a> (Sept '19 - Now) <br> Our products make Bitcoin Cash more accessible. 
+	<li><b>Product Manager</b>, &nbsp; <a href="https://www.bitcoin.com">Bitcoin.com</a> (Sept '19 - Now) <br> Our products make Bitcoin Cash more accessible. </li><br>
 		<ul>
 			<li>Product lead for <a href="https://buy.bitcoin.com">Bitcoin.com Buy</a> and <a href="https://local.bitcoin.com">Bitcoin.com Local</a></li>
 			<li>Collaborating with Bitcoin.com Buy external partner, MoonPay, to achieve over 30% increase in transaction volume- Month over Month.</li>
