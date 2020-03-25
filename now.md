@@ -7,8 +7,7 @@ This is a new page on my site, inspired by [Derek Sivers](https://sivers.org/now
 
 ## What I'm up to right **NOW**:
 
-* Reading [Genghis Khan and the Making of the Modern World](https://www.goodreads.com/book/show/40718726-genghis-khan-and-the-making-of-the-modern-world?from_search=true) by Jack Weatherford.
-* Reading [Fooled by Randomness](https://www.amazon.com/Fooled-Randomness-Hidden-Markets-Incerto/dp/0812975219) by Nassim Taleb.
-* Learning how to play the *ukelele*.
+* Reading [The black Swan](https://www.goodreads.com/book/show/242472.The_Black_Swan) by Nassim Taleb.
+* Building a Tokyo Tower model using my 3D pen.
 
-Last Updated: ***August 25, 2019***
+Last Updated: ***March 25, 2019***
