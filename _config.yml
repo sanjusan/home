@@ -54,13 +54,6 @@ linkedin: sanjanamehta
 email: sanjsmehta@gmail.com
 behance: sanjanameh253c
 
-authors:
-    Sanjana:
-        name: Sanjana Mehta
-        bio: All things product and design
-        external-image: false
-        picture: assets/images/profile.jpg
-
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
