@@ -11,10 +11,11 @@ layout: page
 <ul class="skill-list">
 	<li><b>Product Manager</b>, &nbsp; <a href="https://www.bitcoin.com">Bitcoin.com</a> (Sept '19 - Now) <br> Our products make Bitcoin Cash more accessible. </li><br>
 		<ul>
-			<li>Product lead for <a href="https://buy.bitcoin.com">Bitcoin.com Buy</a> and <a href="https://local.bitcoin.com">Bitcoin.com Local</a></li>
+			<li>Product lead for <a href="https://buy.bitcoin.com">Bitcoin.com Buy</a>,<a href="https://local.bitcoin.com">Bitcoin.com Local</a> and Bitcoin.com Account</li>
 			<li>Collaborating with Bitcoin.com Buy external partner, MoonPay, to achieve over 30% increase in transaction volume- Month over Month.</li>
 			<li>Reporting month-over-month increase of 26% in revenue for Bitcoin.com Local </li>
 			<li>Spearheaded Steam Integration to trade CS:GO Game items for BCH on Bitcoin.com Local </li>
+			<li>Build our API Standards to ensure the Bitcoin.com Account is releasing consistent and effective APIs </li>
 			<li> Make hard data-informed decisions (A/B testing and experimentation, user testing, data analysis, defining metrics)</li>
 	</ul><br>
 	<li><b>Product Manager</b>, &nbsp; <a href="https://imagine-orb.com">Orb Inc</a> (Nov '17 - Sept '19) <br> Orb is a software foundation that focuses on delivering fast, frictionless commerce with configurable coin economies on a distributed ledger platform that is secure, scalable, and easy-to-integrate into enterprise networks.
