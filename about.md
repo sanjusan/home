@@ -11,7 +11,7 @@ layout: page
 <ul class="skill-list">
 	<li><b>Product Manager</b>, &nbsp; <a href="https://www.bitcoin.com">Bitcoin.com</a> (Sept '19 - Now) <br> Our products make Bitcoin Cash more accessible. </li><br>
 		<ul>
-			<li>Product lead for <a href="https://buy.bitcoin.com">Bitcoin.com Buy</a>,<a href="https://local.bitcoin.com">Bitcoin.com Local</a> and Bitcoin.com Account</li>
+			<li>Product lead for <a href="https://buy.bitcoin.com">Bitcoin.com Buy</a>, <a href="https://local.bitcoin.com">Bitcoin.com Local</a> and Bitcoin.com Account</li>
 			<li>Collaborating with Bitcoin.com Buy external partner, MoonPay, to achieve over 30% increase in transaction volume- Month over Month.</li>
 			<li>Reporting month-over-month increase of 26% in revenue for Bitcoin.com Local </li>
 			<li>Spearheaded Steam Integration to trade CS:GO Game items for BCH on Bitcoin.com Local </li>
