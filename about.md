@@ -49,5 +49,5 @@ performance</li>
 <h2>Education</h2>
 
 <ul>
-	<li><b>College of Engineering, Pune </b> &nbsp;&nbsp; Electrical Engineering, 8.4/10 </li>
+	<li><b>College of Engineering Pune, India </b> &nbsp;&nbsp; Electrical Engineering, 8.4/10 </li>
 </ul>
