@@ -26,6 +26,7 @@ performance</li>
 			<li>Lead end to end product development and strategy efforts for Orb's enterprise product, Orb DLT </li>
 			<li>Created and maintained product roadmap and drove product requirements for clients and external vendors.<br>Resposibilities consisted of owning the whole delivery lifecycle from requirement gathering, concept building, the product offering, end-to-end user experience and usability testing, integration with client and internal back-end systems, deployment to production and post launch maintenance.</li>
 			<li>Planned and led two successful launches of our services around local currency wallet projects. Find more details <a href="https://www.nham.jp/niseko_pay/en/">here</a></li>
+			<li>Build our API Standards to ensure we were releasing consistent and effective APIs</li>
 			<li>Responsible for all product initiatives at Orb. Currently own following functional areas at Orb:
 				<ul>
 					<li>Product Management</li>
