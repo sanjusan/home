@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p> As a Product Manager my strengths encompass <i><b>defining product vision, interfacing with clients, internal executives</b></i> and my <i><b>engineering team</b></i> to bring the product vision to life. I partner with my team as a creative, strategic thinker to innovate and execute based on priorities and data. I also thrive on maneuvering through project and political challenges, and most importantly, envisioning experiences that delight users. Firm practitioner of the <a href="https://sivers.org/hellyeah">hell yeah or no</a> philosophy. </p>
+<p> As a Product Manager my strengths encompass <mark> defining product vision, interfacing with clients, internal executives and my engineering team to bring the product vision to life </mark>. I partner with my team as a creative, strategic thinker to innovate and execute based on priorities and data. I also thrive on maneuvering through project and political challenges, and most importantly, envisioning experiences that delight users. Firm practitioner of the <a href="https://sivers.org/hellyeah">hell yeah or no</a> philosophy. </p>
 
 <p><b>Key Competencies:</b> agile product management and strategy, audience segmentation, data analysis, end-to end product development, retention and engagement, usability heuristics, data modeling, SQL and RESTFUL APIs.</p>
 
