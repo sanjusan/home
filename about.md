@@ -32,7 +32,7 @@ performance</li>
 			<li>Build our API Standards to ensure we were releasing consistent and effective APIs</li>
 			<li>Responsible for all product initiatives at Orb. Currently own following functional areas at Orb:
 				<ul>
-					<li>Product Management</li>
+					<li>Product Development and Strategy</li>
 					<li>Product Design</li>
 					<li>Program Management</li>
 				</ul>
