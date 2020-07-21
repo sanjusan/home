@@ -12,6 +12,11 @@ layout: page
 <h2>Work Experience</h2>
 
 <ul class="skill-list">
+	<li><b>Product Manager</b>, &nbsp; <a href="https://www.rakuten.com">Rakuten</a> (June '20 - Now) <br> At Rakuten, we are building the next-gen API Gateway that helps teams leverage the latest microservice and container design patterns. </li><br>
+		<ul>
+			<li>Plan end to end product development strategy to increase customer engagement by introducing features like API Discover Hub and improved Dashboard Analytics</li>
+			<li>Maintaining our KPI of 1 billion weekly transactions by harnessing cross team collaboration and onboarding new clients, both internal and external</li>
+	</ul><br>
 	<li><b>Product Manager</b>, &nbsp; <a href="https://www.bitcoin.com">Bitcoin.com</a> (Sept '19 - Now) <br> Our products make Bitcoin Cash more accessible. </li><br>
 		<ul>
 			<li>Lead end to end product and strategy efforts across growth, engagement and platform for Bitcoin.com’s Financial Services team that includes <a href="https://buy.bitcoin.com">Bitcoin.com Buy</a> and <a href="https://local.bitcoin.com">Bitcoin.com Local</a></li>
