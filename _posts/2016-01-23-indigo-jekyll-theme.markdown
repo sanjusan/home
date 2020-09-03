@@ -12,7 +12,7 @@ category: project
 externalLink: false
 ---
 
-![Screenshot](https://github.com/sanjusan/home/blob/gh-pages/assets/koi.jpg)
+![Screenshot](https://github.com/sanjusan/home/blob/gh-pages/assets/koi.png)
 
 **The problem is simple yet scary**
 In 2018, there were 13.1 million clergical jobs in Japan. Due to the innate nature of keeping their feelings to themselves, the japanese are shy of open speech. Lonliness is becoming the norm of life and career growth is slow to stagnant.
