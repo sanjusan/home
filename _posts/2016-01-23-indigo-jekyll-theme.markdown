@@ -1,35 +1,24 @@
 ---
-title: ":ramen: Indigo, minimalist jekyll theme"
+title: "Koi - persevering through adversity and breaking down heirarchy "
 layout: post
-date: 2016-01-23 22:10
-tag: jekyll
+date: 2020-09-03 22:10
+tag: failedstartup
 image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
+description: "Koi aimed to be a workplace community where verified professionals can talk about what matters most."
 category: project
-author: johndoe
 externalLink: false
 ---
 
-![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
+![Screenshot](https://github.com/sanjusan/home/blob/gh-pages/assets/koi.jpg)
 
-Example of project - Indigo Minimalist Jekyll Template - [Demo](http://sergiokopplin.github.io/indigo/). This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
+**The problem is simple yet scary**
+In 2018, there were 13.1 million clergical jobs in Japan. Due to the innate nature of keeping their feelings to themselves, the japanese are shy of open speech. Lonliness is becoming the norm of life and career growth is slow to stagnant.
 
----
-
-What has inside?
-
-- Gulp
-- BrowserSync
-- Stylus
-- SVG
-- Travis
-- No JS
-- [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F)
+**Meet Koi. A new kind of socioprofessional platform**
+It will allow japanese professionals from all industries to interact with each other and discuss industry news, salaries, post job openings, ask for referrals and take polls. It is designed with anonimity and security in mind.
 
 ---
 
-[Check it out](http://sergiokopplin.github.io/indigo/) here.
-If you need some help, just [tell me](http://github.com/sergiokopplin/indigo/issues).
