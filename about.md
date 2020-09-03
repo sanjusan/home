@@ -46,11 +46,13 @@ performance</li>
 			<li>Work with world-class engineers to bring highly scalable features to market.</li>
 			<li>Build and foster a creative and stimulating work environment to ensure all members of the team feel at their productive best.</li>
 		</ul><br>
-	<li><b>Visual Designer</b>, &nbsp; <a href="https://www.webstaff.jp/">Webstaff Co. Ltd.</a> (Aug '16 - Sept '17) <br> WebStaff is Japan's first ever web specialized human resource service company providing multiple HR services to the IT industry including staffing, placement, consulting and outsourcing web design. </li><br>
+	<li><b>Visual Designer and Tech HR Consultant</b>, &nbsp; <a href="https://www.webstaff.jp/">Webstaff Co. Ltd.</a> (Aug '16 - Sept '17) <br> WebStaff is Japan's first ever web specialized human resource service company providing multiple HR services to the IT industry including staffing, placement, consulting and outsourcing web design. </li><br>
 		<ul>
 			<li> Conceptualize and design the organization’s marketing and communications materials including 年賀状,  暑中見舞い and e-brochures
 			</li>
 			<li> Web design and UX for the organization's website
+			</li>
+			<li> Specialized in hiring professionals for IT companies. Generated 7.5M yen in revenue
 			</li>
 		</ul><br>
 
